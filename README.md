@@ -27,12 +27,18 @@ Filenames follow the pattern:
 where:
 
 - `subject`: abbreviated subject name
-  - `minpo`   – Civil Law (民法)
-  - `minsoho` – Code of Civil Procedure (民事訴訟法)
-  - `keiho`   – Criminal Law (刑法)
-  - `keisoho` – Code of Criminal Procedure (刑事訴訟法)
-  - `shoho`   – Commercial Law (商法)
-  - `kenpo`   – Constitution (憲法)
+  - `gyoseiho`      – Administrative Law (行政法)
+  - `hasanho`       – Bankruptcy Law (破産法)
+  - `keiho`         – Criminal Law (刑法)
+  - `keijiseisaku`  – Criminal Policy (刑事政策)
+  - `keisoho`       – Code of Criminal Procedure (刑事訴訟法)
+  - `kenpo`         – Constitution (憲法)
+  - `kokusaikoho`   – Public International Law (国際公法)
+  - `kokusaishiho`  – Private International Law (国際私法)
+  - `minpo`         – Civil Law (民法)
+  - `minsoho`       – Code of Civil Procedure (民事訴訟法)
+  - `rodoho`        – Labor Law (労働法)
+  - `shoho`         – Commercial Law (商法)
 - `year`: Gregorian calendar year, e.g. `1949`, `2010`
 - `era`: Japanese era code in the form `[s|h][nn]`, e.g.
   - `s24` for Showa 24 (1949)
